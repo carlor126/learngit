@@ -1,2 +1,4 @@
 
 this is a license file
+tell me hoe to use git
+try to use git add
