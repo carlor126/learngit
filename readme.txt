@@ -19,3 +19,5 @@ try to understand git diff between work dict&stage&master
 it tracks changes of files
 
 try to use add and commit reserve
+
+i have already create a repo of test
