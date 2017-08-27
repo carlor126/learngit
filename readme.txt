@@ -23,10 +23,6 @@ try to use add and commit reserve
 i have already create a repo of test
 
 
-<<<<<<< HEAD
 Creating a new branch<dev> is quick and simple
-=======
-Creating a new branch<dev> is quick AND simple
 
 
->>>>>>> featurel
