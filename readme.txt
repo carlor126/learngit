@@ -27,3 +27,7 @@ i have already create a repo of test
 Creating a new branch<dev> is quick and simple
 
 leaning using commit --no-ff
+
+
+this file is belong to learngit_other dev_other brancher=========
+=================================================================
