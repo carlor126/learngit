@@ -29,5 +29,9 @@ Creating a new branch<dev> is quick and simple
 leaning using commit --no-ff
 
 
+<<<<<<< HEAD
 this file is belong to learngit_other dev_other brancher=========
 =================================================================
+=======
+git pull deal with conflict done
+>>>>>>> dev
