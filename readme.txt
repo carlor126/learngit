@@ -21,3 +21,6 @@ it tracks changes of files
 try to use add and commit reserve
 
 i have already create a repo of test
+
+
+Creating a new branch<dev> is quick
